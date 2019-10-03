@@ -1,0 +1,7 @@
+C:\git\podstawy_programowania\Zajęcia_1\Zajęcia_1\Zajęcia_1\obj\Debug\Zajęcia_1.csprojAssemblyReference.cache
+C:\git\podstawy_programowania\Zajęcia_1\Zajęcia_1\Zajęcia_1\obj\Debug\Zajęcia_1.csproj.CoreCompileInputs.cache
+C:\git\podstawy_programowania\Zajęcia_1\Zajęcia_1\Zajęcia_1\bin\Debug\Zajęcia_1.exe.config
+C:\git\podstawy_programowania\Zajęcia_1\Zajęcia_1\Zajęcia_1\bin\Debug\Zajęcia_1.exe
+C:\git\podstawy_programowania\Zajęcia_1\Zajęcia_1\Zajęcia_1\bin\Debug\Zajęcia_1.pdb
+C:\git\podstawy_programowania\Zajęcia_1\Zajęcia_1\Zajęcia_1\obj\Debug\Zajęcia_1.exe
+C:\git\podstawy_programowania\Zajęcia_1\Zajęcia_1\Zajęcia_1\obj\Debug\Zajęcia_1.pdb
