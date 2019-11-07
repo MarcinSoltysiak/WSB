@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
@@ -6,87 +10,56 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tabliczka mnożenia");
-            int n = 10, row, col;
-            row = 1;
-            do
+            //typ wartościowy
+            int a = 10;
+            int b = a;
+
+            a--;
+            b++;
+            Console.WriteLine("zmienna a: {0}", a); //9
+            Console.WriteLine("zmienna b: {0}", b); //11
+
+            //typ referecyjny
+            int[] tabA = { 2, 2, 2 };
+            int[] tabB = tabA;
+            tabA[2] = 10;
+            tabB[0] = 8;
+
+            foreach (int item in tabA )
             {
-                col = 1;
-                do
-                {
-                    Console.Write(row * col + "\t");
-                    col++;
-                } while (col <= n);
-                row++;
-                Console.WriteLine();
-            } while (row <= n);
-
-            
-        //napisz program który wyświetli duże litery od a do z i z do a z wykorzystaniem pętli for np A, B, C,... Z.
-
-            for (char A = 'A'; A <= 'Z';A++)
-            {
-                if (A != 'Z')
-                    Console.Write("");
-                else
-                {
-                    Console.Write(A + ".");
-                }
-                Console.Write(A);
-
-
+                Console.Write("{0}",item);
             }
-            for (char Z = 'Z'; Z >= 'A';Z-- )
+            foreach (int item in tabB)
             {
-             if (Z != 'A')
-                {
+                Console.Write("{0}", item);
+            }
+            //kopiowanie tablic 1 sposób
 
-                }
+            int[] tab = { 1, 2, 3, 4, 5 };
+            int[] tabCopy = new int[5];
+
+            foreach (int item in tabCopy)
+            {
+                Console.Write("{0}", item);
             }
 
-            //continue
-            int j = 1;
-            for (; j <= 10; j++)
-            {
-                if (j==2 || j == 5 || j == 7)
-                {
-                    continue;
-                }
-                else
-                {
-                    Console.WriteLine(j);
-                }
-            }
-            //break
+            tab.CopyTo(tabCopy, 0);
 
-            int j = 10;
-            for (; j <= 10; j++)
+            foreach (int item in tabCopy)
             {
-                if (j == 2 || j == 5 || j == 7)
-                {
-                    break;
-                }
-                else
-                {
-                    Console.WriteLine(j);
-                }
+                Console.WriteLine("\n{0}", item);
             }
 
+            //kopiowanie tablic 2 sposób
 
+            Array.Copy(tab, tabCopy, 5);
+
+            foreach (int item in tabCopy)
+            {
+                Console.WriteLine("\n{0}", item);
+            }
 
             Console.ReadKey();
-
-
-
-
-
-
-
-
-
-
         }
-    } //napisz program który za pomocą instrukcji do...while dla danych wartości zmieniających się w przedziale od 0 do 15 oblicz wartość funkcji y=4x
-    //napisz program zanjdujący się powyżej za pomocą pętli while
-
+    }
 }
