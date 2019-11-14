@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Funkcje5\Funkcje5\bin\Debug\Funkcje5.exe.config
+C:\Users\Student\Desktop\Funkcje5\Funkcje5\bin\Debug\Funkcje5.exe
+C:\Users\Student\Desktop\Funkcje5\Funkcje5\bin\Debug\Funkcje5.pdb
+C:\Users\Student\Desktop\Funkcje5\Funkcje5\obj\Debug\Funkcje5.exe
+C:\Users\Student\Desktop\Funkcje5\Funkcje5\obj\Debug\Funkcje5.pdb

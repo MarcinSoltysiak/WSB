@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\Funkcja4\Funkcja4\bin\Debug\Funkcja4.exe.config
+C:\Users\Student\Desktop\Funkcja4\Funkcja4\bin\Debug\Funkcja4.exe
+C:\Users\Student\Desktop\Funkcja4\Funkcja4\bin\Debug\Funkcja4.pdb
+C:\Users\Student\Desktop\Funkcja4\Funkcja4\obj\Debug\Funkcja4.exe
+C:\Users\Student\Desktop\Funkcja4\Funkcja4\obj\Debug\Funkcja4.pdb

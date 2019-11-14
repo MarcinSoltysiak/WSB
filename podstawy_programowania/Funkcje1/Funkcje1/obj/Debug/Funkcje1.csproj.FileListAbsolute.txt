@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Funkcje1\Funkcje1\bin\Debug\Funkcje1.exe.config
+C:\Users\Student\Desktop\Funkcje1\Funkcje1\bin\Debug\Funkcje1.exe
+C:\Users\Student\Desktop\Funkcje1\Funkcje1\bin\Debug\Funkcje1.pdb
+C:\Users\Student\Desktop\Funkcje1\Funkcje1\obj\Debug\Funkcje1.exe
+C:\Users\Student\Desktop\Funkcje1\Funkcje1\obj\Debug\Funkcje1.pdb
+C:\Users\Student\Desktop\Funkcje1\Funkcje1\obj\Debug\Funkcje1.csprojAssemblyReference.cache
