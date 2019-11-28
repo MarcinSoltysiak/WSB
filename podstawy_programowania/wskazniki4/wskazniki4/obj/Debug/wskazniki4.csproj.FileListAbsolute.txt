@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\wskazniki4\wskazniki4\bin\Debug\wskazniki4.exe.config
+C:\Users\Student\Desktop\wskazniki4\wskazniki4\bin\Debug\wskazniki4.exe
+C:\Users\Student\Desktop\wskazniki4\wskazniki4\bin\Debug\wskazniki4.pdb
+C:\Users\Student\Desktop\wskazniki4\wskazniki4\obj\Debug\wskazniki4.exe
+C:\Users\Student\Desktop\wskazniki4\wskazniki4\obj\Debug\wskazniki4.pdb
