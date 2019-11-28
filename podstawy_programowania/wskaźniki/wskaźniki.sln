@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wskaźniki", "wskaźniki\wskaźniki.csproj", "{3379109C-3CA4-4963-BC34-CCCB8AFC5FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3379109C-3CA4-4963-BC34-CCCB8AFC5FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3379109C-3CA4-4963-BC34-CCCB8AFC5FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3379109C-3CA4-4963-BC34-CCCB8AFC5FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3379109C-3CA4-4963-BC34-CCCB8AFC5FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1404EE31-E189-40BA-9917-5954A9392642}
+	EndGlobalSection
+EndGlobal

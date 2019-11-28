@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\wskaźniki\wskaźniki\bin\Debug\wskaźniki.exe.config
+C:\Users\Student\source\repos\wskaźniki\wskaźniki\bin\Debug\wskaźniki.exe
+C:\Users\Student\source\repos\wskaźniki\wskaźniki\bin\Debug\wskaźniki.pdb
+C:\Users\Student\source\repos\wskaźniki\wskaźniki\obj\Debug\wskaźniki.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\wskaźniki\wskaźniki\obj\Debug\wskaźniki.exe
+C:\Users\Student\source\repos\wskaźniki\wskaźniki\obj\Debug\wskaźniki.pdb
