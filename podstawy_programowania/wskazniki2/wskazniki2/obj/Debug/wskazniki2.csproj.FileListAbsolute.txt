@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\wskazniki2\wskazniki2\bin\Debug\wskazniki2.exe.config
+C:\Users\Student\source\repos\wskazniki2\wskazniki2\bin\Debug\wskazniki2.exe
+C:\Users\Student\source\repos\wskazniki2\wskazniki2\bin\Debug\wskazniki2.pdb
+C:\Users\Student\source\repos\wskazniki2\wskazniki2\obj\Debug\wskazniki2.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\wskazniki2\wskazniki2\obj\Debug\wskazniki2.exe
+C:\Users\Student\source\repos\wskazniki2\wskazniki2\obj\Debug\wskazniki2.pdb
