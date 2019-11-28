@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\kolory\kolory\obj\Debug\kolory.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\kolory\kolory\bin\Debug\kolory.dll
+C:\Users\Student\Desktop\kolory\kolory\bin\Debug\kolory.pdb
+C:\Users\Student\Desktop\kolory\kolory\obj\Debug\kolory.dll
+C:\Users\Student\Desktop\kolory\kolory\obj\Debug\kolory.pdb

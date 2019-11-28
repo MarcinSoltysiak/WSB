@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\biblioteka\biblioteka\bin\Debug\biblioteka.exe.config
+C:\Users\Student\Desktop\biblioteka\biblioteka\bin\Debug\biblioteka.exe
+C:\Users\Student\Desktop\biblioteka\biblioteka\bin\Debug\biblioteka.pdb
+C:\Users\Student\Desktop\biblioteka\biblioteka\bin\Debug\biblioteka_dll.dll
+C:\Users\Student\Desktop\biblioteka\biblioteka\bin\Debug\biblioteka_dll.pdb
+C:\Users\Student\Desktop\biblioteka\biblioteka\obj\Debug\biblioteka.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\biblioteka\biblioteka\obj\Debug\biblioteka.csproj.CopyComplete
+C:\Users\Student\Desktop\biblioteka\biblioteka\obj\Debug\biblioteka.exe
+C:\Users\Student\Desktop\biblioteka\biblioteka\obj\Debug\biblioteka.pdb

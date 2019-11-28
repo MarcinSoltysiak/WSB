@@ -1,0 +1,5 @@
+C:\Users\Student\Desktop\pola\pola\bin\Debug\pola.dll
+C:\Users\Student\Desktop\pola\pola\bin\Debug\pola.pdb
+C:\Users\Student\Desktop\pola\pola\obj\Debug\pola.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\pola\pola\obj\Debug\pola.dll
+C:\Users\Student\Desktop\pola\pola\obj\Debug\pola.pdb
