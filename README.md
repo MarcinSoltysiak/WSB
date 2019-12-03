@@ -1,1 +1,4 @@
-# Materiały z zajęć z programowania w języku C# oraz moje własne ćwiczenia
+# excersizes from Programing course and my personal work.
+Future improvements
+adding more content made by me
+claryfing the code
