@@ -1,1 +1,1 @@
-# Materiały z zajęć z programowania w języku c# oraz moje własne ćwiczenia
+# Materiały z zajęć z programowania w języku C# oraz moje własne ćwiczenia
