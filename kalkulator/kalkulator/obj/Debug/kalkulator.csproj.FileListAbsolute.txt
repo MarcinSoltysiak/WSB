@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+C:\Users\Student\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+C:\Users\Student\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\Student\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Student\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Student\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\Student\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
