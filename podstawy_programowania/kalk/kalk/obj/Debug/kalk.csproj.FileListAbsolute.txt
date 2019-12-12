@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\kalk\kalk\bin\Debug\kalk.exe.config
+C:\Users\Student\source\repos\kalk\kalk\bin\Debug\kalk.exe
+C:\Users\Student\source\repos\kalk\kalk\bin\Debug\kalk.pdb
+C:\Users\Student\source\repos\kalk\kalk\obj\Debug\kalk.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\kalk\kalk\obj\Debug\kalk.Form1.resources
+C:\Users\Student\source\repos\kalk\kalk\obj\Debug\kalk.Properties.Resources.resources
+C:\Users\Student\source\repos\kalk\kalk\obj\Debug\kalk.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\kalk\kalk\obj\Debug\kalk.exe
+C:\Users\Student\source\repos\kalk\kalk\obj\Debug\kalk.pdb
