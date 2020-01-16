@@ -1,0 +1,6 @@
+C:\Users\Student\source\repos\bazy\bazy\bin\Debug\bazy.exe.config
+C:\Users\Student\source\repos\bazy\bazy\bin\Debug\bazy.exe
+C:\Users\Student\source\repos\bazy\bazy\bin\Debug\bazy.pdb
+C:\Users\Student\source\repos\bazy\bazy\obj\Debug\bazy.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\bazy\bazy\obj\Debug\bazy.exe
+C:\Users\Student\source\repos\bazy\bazy\obj\Debug\bazy.pdb
