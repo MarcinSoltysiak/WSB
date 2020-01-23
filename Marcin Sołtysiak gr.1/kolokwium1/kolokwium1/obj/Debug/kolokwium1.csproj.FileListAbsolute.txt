@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\bin\Debug\kolokwium1.exe.config
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\bin\Debug\kolokwium1.exe
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\bin\Debug\kolokwium1.pdb
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\obj\Debug\kolokwium1.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\obj\Debug\kolokwium1.Form1.resources
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\obj\Debug\kolokwium1.kalkulator.resources
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\obj\Debug\kolokwium1.Properties.Resources.resources
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\obj\Debug\kolokwium1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\obj\Debug\kolokwium1.exe
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\obj\Debug\kolokwium1.pdb
+C:\Users\Student\Desktop\Marcin Sołtysiak gr.2\kolokwium1\kolokwium1\obj\Debug\kolokwium1.konwenter.resources
